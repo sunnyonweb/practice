@@ -15,3 +15,13 @@ nav{
     align-items: center;
     padding: 20px;
 }
+.logo{
+    font-size: 28px;
+    font-weight: bold;
+    color: black;
+}
+.primary-btn{
+    padding: 15px 36px;
+    background-color: white;
+    color: black;
+}
