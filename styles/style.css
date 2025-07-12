@@ -5,7 +5,9 @@
 
 
 header{
-    max-width: 1140px;
+     width: 100%;
+    max-width: 600px;
+    background: green;
 }
 
 nav{
